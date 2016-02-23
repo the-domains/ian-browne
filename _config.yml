@@ -1,0 +1,28 @@
+name: This is Me
+favicon: null
+layout_spectrum: 0.10252724844031036
+typography_spectrum: 0.6113143675029278
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.5485909753479064
+  lightness: 0.4455991720315069
+  saturation: 0.367101538926363
+  rhythmicContrast: 0.06849551270715892
+purpose: []
