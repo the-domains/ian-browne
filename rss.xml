@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[This is Me]]></title>
+        <description><![CDATA[This is Me]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 23 Feb 2016 00:52:30 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[A day at the beach]]></title>
+            <description><![CDATA[<article><h1>A day at the beach</h1><p>This is Me.  But who is that?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7ab0b52a8531f955d0aded414e595f0b058f8da9.jpg"></article>]]></description>
+            <link>undefineda-day-at-the-beach/index.html</link>
+            <guid isPermaLink="false">39162c67-a382-4554-8203-680c8938ab5e</guid>
+            <pubDate>Tue, 23 Feb 2016 00:52:23 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
