@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[This is Me]]></title>
         <description><![CDATA[This is Me]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/ian-browne/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 23 Feb 2016 00:52:30 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 23 Feb 2016 02:42:18 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/ian-browne/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[A day at the beach]]></title>
-            <description><![CDATA[<article><h1>A day at the beach</h1><p>This is Me.  But who is that?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7ab0b52a8531f955d0aded414e595f0b058f8da9.jpg"></article>]]></description>
-            <link>undefineda-day-at-the-beach/index.html</link>
+            <description><![CDATA[<article><h1>A day at the beach</h1><p>This is the first page to play with TheGrid site design</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7ab0b52a8531f955d0aded414e595f0b058f8da9.jpg"></article>]]></description>
+            <link>https://thegrid.ai/ian-browne/a-day-at-the-beach/index.html</link>
             <guid isPermaLink="false">39162c67-a382-4554-8203-680c8938ab5e</guid>
-            <pubDate>Tue, 23 Feb 2016 00:52:23 GMT</pubDate>
+            <pubDate>Tue, 23 Feb 2016 02:41:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
